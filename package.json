@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio website, which displays exactly who i am and a little about my life in the computer science world",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adrian Jasaroska",
+  "license": "ISC",
+  "devDependencies": {
+    "zod": "^3.23.8"
+  }
+}
